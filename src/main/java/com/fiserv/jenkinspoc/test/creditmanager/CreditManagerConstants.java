@@ -5,4 +5,5 @@ public class CreditManagerConstants {
 
 	public static String CREDIT_MANAGER = "CreditManager";
 	public static String CREDIT_MANAGER_TEST = "CreditManagerTEST";
+	public static String TEST_COMMIT = "TEST_COMMIT";
 }
